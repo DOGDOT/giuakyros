@@ -9,7 +9,7 @@ Dự án này là hệ thống mô phỏng hoạt động trong môi trường R
   * Camera RGB gắn tại khau 1.
   * Odometry phản hồi từ bộ mã hóa (Encoder) bánh xe.
   * 
-#sau khi tải về đổi tên package thành assem3
+# Sau khi tải về đổi tên package thành assem3
 
 ```bash
 sudo apt update
