@@ -8,6 +8,7 @@ Dự án này là hệ thống mô phỏng hoạt động trong môi trường R
   * Lidar 360 độ (2 cụm truoc/sau).
   * Camera RGB gắn tại khau 1.
   * Odometry phản hồi từ bộ mã hóa (Encoder) bánh xe.
+  * 
 #sau khi tải về đổi tên package thành assem3
 
 ```bash
